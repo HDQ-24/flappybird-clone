@@ -1,0 +1,3 @@
+#ignoring binaries 
+*.exe
+*.dll
